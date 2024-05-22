@@ -1,0 +1,4 @@
+{
+    "presets": ["@babel/preset-env"]
+    // to structure the compiler
+}

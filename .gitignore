@@ -1,0 +1,7 @@
+# Ignore pushing to github
+/node_modules
+/vendor
+#folder contains CACHE
+/.idea 
+.idea/
+.env
